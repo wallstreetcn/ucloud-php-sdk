@@ -1,0 +1,12 @@
+{
+    "name": "wallstreetcn/ucloud-php-sdk",
+    "description": "description_text",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "ucloud",
+            "email": "support@ucloud.cn"
+        }
+    ]
+}
